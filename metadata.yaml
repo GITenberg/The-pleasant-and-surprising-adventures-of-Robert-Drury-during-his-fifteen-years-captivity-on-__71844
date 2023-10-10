@@ -1,0 +1,28 @@
+_repo: The-pleasant-and-surprising-adventures-of-Robert-Drury-during-his-fifteen-years-captivity-on-__71844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drury, Robert
+    gutenberg_agent_id: '56422'
+    url: http://www.gutenberg.org/2009/agents/56422
+description: ''
+gutenberg_issued: '2023-10-09'
+identifiers:
+  gutenberg: '71844'
+language: en
+pgterms:marc904: https://archive.org/details/pleasantsuprisin00deforich
+pgterms:marc905: 20200202221903defoe
+pgterms:marc906: '1826'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MFR, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bPrinted for Hunt and Clarke, $c1826.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The pleasant and surprising adventures of Robert Drury, during his fifteen
+  years' captivity on the island of Madagascar
+url: http://www.gutenberg.org/ebooks/71844
