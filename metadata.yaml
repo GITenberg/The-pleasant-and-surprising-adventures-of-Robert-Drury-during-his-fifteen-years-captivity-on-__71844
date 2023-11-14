@@ -1,11 +1,16 @@
 _repo: The-pleasant-and-surprising-adventures-of-Robert-Drury-during-his-fifteen-years-captivity-on-__71844
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71844-h/images/cover.jpg
 creator:
   author:
     agent_name: Drury, Robert
     gutenberg_agent_id: '56422'
     url: http://www.gutenberg.org/2009/agents/56422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71844#The-pleasant-and-surprising-adventures-of-Robert-Drury-during-his-fifteen-years-captivity-on-_
 gutenberg_issued: '2023-10-09'
 identifiers:
   gutenberg: '71844'
